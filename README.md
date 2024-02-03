@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mihail Botnari
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Nuxt.js/Vue.js/TailwindCSS
+- 🌱 I’m into Nuxt.js/Vue.js/TailwindCSS tech
 - 💞️ I’m looking to collaborate on website that uses Nuxt.js / Vue.js frameworks.
 - 📫 How to reach me:
       mihaibotnaru87@gmail.com
